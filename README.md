@@ -16,7 +16,7 @@ p<sub>GC</sub> = 5.21x10<sup>-8</sup>
 No, at least one variable is statistically significant, so there will not be a zero slope.
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-This model does not, as it does not only use the statistically significant variables, but other ones as well in its model.  The R-squared value near 0.7 is also nothing of particularly good fit, and we have also not determined that the relationship should be linear or not.
+This model does not, as it does not only use the statistically significant variables, but other ones as well in its model, adding unnecessary noise to the fit.  The R-squared value near 0.7 is also not a particularly good fit, and we have also not determined that the relationship should be linear or not.
 
 ## Summary Statistics on Suspension Coils
 ### Results
